@@ -1,0 +1,16 @@
+filename = 'ftb-quests-fabric-2001.4.14.jar'
+name = 'FTB Quests (Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '90818e1ded4ea34d80e05a5bfebe0f32c7f9d8c2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6829211
+project-id = 438496

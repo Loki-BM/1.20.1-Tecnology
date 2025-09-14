@@ -1,0 +1,16 @@
+filename = 'rechiseledcreate-1.0.2a-fabric-mc1.20.jar'
+name = 'Rechiseled: Create'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd8be2c71e3874ef635d34fac4b175365b242e817'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5286401
+project-id = 888624

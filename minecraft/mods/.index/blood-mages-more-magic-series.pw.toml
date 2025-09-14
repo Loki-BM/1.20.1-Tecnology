@@ -1,0 +1,16 @@
+filename = 'blood_mages-0.0.8-1.20.1.jar'
+name = 'Blood Mages [More Magic Series]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9cee4bf4373bc79331eb64750a09bb0f8c7e83f1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6106810
+project-id = 1052133

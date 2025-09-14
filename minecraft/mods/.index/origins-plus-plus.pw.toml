@@ -1,0 +1,16 @@
+filename = 'origins-plus-plus-2.4.jar'
+name = 'Origins++'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.18.1', '1.18.2', '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd8913c041bcb21fd9a5a7abe94cd06e91e050241'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6868627
+project-id = 602828

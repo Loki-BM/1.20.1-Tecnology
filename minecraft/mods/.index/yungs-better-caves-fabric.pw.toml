@@ -1,0 +1,16 @@
+filename = 'YungsBetterCaves-1.20.1-Fabric-2.0.5.jar'
+name = "YUNG's Better Caves (Fabric)"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8f5d948518351030ab0e4eaaa3250672bd0dfb47'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6984601
+project-id = 408465

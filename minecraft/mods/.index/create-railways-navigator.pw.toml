@@ -1,0 +1,16 @@
+filename = 'createrailwaysnavigator-fabric-1.20.1-beta-0.8.4.jar'
+name = 'Create Railways Navigator'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'edad84635a71b2c957e8943830b7b3b634ffa513'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6693807
+project-id = 935929

@@ -1,0 +1,16 @@
+filename = 'more_spell_attributes-0.0.5-1.20.1.jar'
+name = 'More Spell Attributes [More Magic Series]'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '444da3c9c306848101e86234983a5e289bcd0a43'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5523682
+project-id = 1031991

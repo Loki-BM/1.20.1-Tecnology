@@ -1,0 +1,16 @@
+filename = 'Crystal-Clear-2.1-Beta-fabric.jar'
+name = 'Create: Crystal Clear'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '717090cba0fa31259ddba530b9c636149c83ef4c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5402290
+project-id = 669724

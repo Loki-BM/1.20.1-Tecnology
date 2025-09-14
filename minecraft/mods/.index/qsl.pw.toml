@@ -1,0 +1,16 @@
+filename = 'qfapi-7.7.0_qsl-6.3.0_fapi-0.92.2_mc-1.20.1.jar'
+name = 'Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fa2868388b175e32e4d3310a5bf065593837bc5c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5955603
+project-id = 634179

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6db9f5d94e1047b4832369dce6381cde"
+	name: "Loki_BM#6db9f5d9"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

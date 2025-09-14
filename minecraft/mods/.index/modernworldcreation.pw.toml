@@ -1,0 +1,16 @@
+filename = 'modernworldcreation_fabric_2.0.1_MC_1.20.1.jar'
+name = 'Modern World Creation'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '381303752404a4cea8a21e16e60970518cc08af0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6292692
+project-id = 485245

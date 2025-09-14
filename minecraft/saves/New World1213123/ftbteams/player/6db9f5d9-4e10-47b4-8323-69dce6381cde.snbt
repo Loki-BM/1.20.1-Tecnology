@@ -1,0 +1,17 @@
+{
+	id: "6db9f5d9-4e10-47b4-8323-69dce6381cde"
+	type: "player"
+	player_name: "Loki_BM"
+	ranks: {
+		6db9f5d9-4e10-47b4-8323-69dce6381cde: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Loki_BM"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFF3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
